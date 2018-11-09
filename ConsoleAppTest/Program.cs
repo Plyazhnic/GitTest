@@ -10,7 +10,7 @@ namespace ConsoleAppTest
     {
         static void Main(string[] args)
         {   
-            LOX lox = new LOX("2 commit");
+            LOX lox = new LOX("3 commit");
 
             Console.ReadKey();
         }
